@@ -1,3 +1,40 @@
 html{
-    background-color: bisque;
+    background-color: whitesmoke;
 }
+#div{
+    width: 50%;
+    margin-left:25%;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+img{
+    position: relative;
+    left: 150px;
+}
+/* li{
+    text-align: center;
+} */
+ a{
+    text-align: center;
+ }
+ .contato{
+    width: 50%;
+    margin-left:25%;
+    
+ }
+#textoInformaçãoContato{
+    margin-bottom: 50px;
+}
+.listas{
+    text-align: center;
+    list-style-position: inside ;
+    /* display: block; */
+    /* display: inline-block; */
+} 
