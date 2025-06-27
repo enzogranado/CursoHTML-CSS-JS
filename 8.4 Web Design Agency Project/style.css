@@ -24,6 +24,7 @@ img.tile-image{
   height: 200px;
   float: left;
   margin: 30px;
+  object-fit: cover;
 }
 .card{
   width: 45%;
@@ -52,6 +53,7 @@ h2, p{
     }
     .card{
       width: 100%;
+      text-align: justify;
     }
     img.tile-image{
       width: 100%;
