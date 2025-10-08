@@ -32,6 +32,19 @@ h2{
     padding: 1px;
 
 }
+.conteudo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: auto;
+}
+.btn-enviar{
+    display: flex;
+    height: auto;
+    justify-items: center;
+    margin-top: 2rem;
+}
 @media (max-width:1020px){
     .container{
         display: flex;
